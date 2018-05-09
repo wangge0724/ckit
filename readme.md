@@ -1,3 +1,3 @@
 # ckit
 
-- my tool-kit api in C
+- My tool-kit api in C
